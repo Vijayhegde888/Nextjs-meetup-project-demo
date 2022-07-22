@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\n\nfunction MeetupDetail() {\n  return /*#__PURE__*/_jsx(\"div\", {\n    children: /*#__PURE__*/_jsx(\"h1\", {\n      children: \"New Meetup\"\n    })\n  });\n}\n\nexport default MeetupDetail;","map":null,"metadata":{},"sourceType":"module"}
